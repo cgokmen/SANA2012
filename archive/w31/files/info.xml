@@ -1,0 +1,57 @@
+<Info>
+  <Pages>
+    <Page Number="1" Width="595" Height="842">
+      <Images>
+        <Normal Path="images/page1.swf" FileSize="24" />
+        <Thumbnail Path="images/page1_thumbnail.jpg" FileSize="7" />
+        <Zoomed Path="images/page1.swf" FileSize="24" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="2" Width="595" Height="842">
+      <Images>
+        <Normal Path="images/page2.swf" FileSize="275" />
+        <Thumbnail Path="images/page2_thumbnail.jpg" FileSize="15" />
+        <Zoomed Path="images/page2.swf" FileSize="275" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="3" Width="595" Height="842">
+      <Images>
+        <Normal Path="images/page3.swf" FileSize="78" />
+        <Thumbnail Path="images/page3_thumbnail.jpg" FileSize="15" />
+        <Zoomed Path="images/page3.swf" FileSize="78" />
+      </Images>
+      <Buttons>
+        <Button X="72" Y="630" Width="446" Height="121">
+          <Action Type="UriAction" HRef="http://saesrpg.net/topic/22243-the-strike-team/" />
+        </Button>
+      </Buttons>
+    </Page>
+    <Page Number="4" Width="595" Height="842">
+      <Images>
+        <Normal Path="images/page4.swf" FileSize="36" />
+        <Thumbnail Path="images/page4_thumbnail.jpg" FileSize="7" />
+        <Zoomed Path="images/page4.swf" FileSize="36" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="5" Width="595" Height="842">
+      <Images>
+        <Normal Path="images/page5.swf" FileSize="88" />
+        <Thumbnail Path="images/page5_thumbnail.jpg" FileSize="12" />
+        <Zoomed Path="images/page5.swf" FileSize="88" />
+      </Images>
+      <Buttons />
+    </Page>
+    <Page Number="6" Width="1" Height="1" IsEmpty="true">
+      <Images>
+        <Normal Path="images/page6_empty.png" FileSize="0" />
+        <Thumbnail Path="images/page6_empty.png" FileSize="0" />
+        <Zoomed Path="images/page6_empty.png" FileSize="0" />
+      </Images>
+      <Buttons />
+    </Page>
+  </Pages>
+  <TableOfContents />
+</Info>
